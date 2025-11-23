@@ -22,10 +22,6 @@ node -v
 ✔ npm (incluido con Node.js)
 npm -v
 
-✔ Chocolatey (solo para Windows, requerido para k6)
-
-Si no lo tienes, te puedo guiar para instalarlo.
-
 🎭 Pruebas UI con Playwright
 📥 1. Instalar Playwright
 
